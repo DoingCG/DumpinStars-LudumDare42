@@ -5,4 +5,6 @@ Inputs are WASD to the player on the left and the arrows to the player on the ri
 
 You will have some spicy combos according to what kind of trash you smash.
 
+![alt text](https://github.com/ToninpRnD/DumpinStars-LudumDare42/blob/master/DumpinStarsLandscape.png?raw=true)
+
 https://nimoriastudio.itch.io/dumpinstars
