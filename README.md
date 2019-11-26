@@ -10,6 +10,7 @@ You will have some spicy combos according to what kind of trash you smash.
 https://nimoriastudio.itch.io/dumpinstars
 
 **Credits**
+
 3D Art and Textures - Jaime Moros Jiménez
 
 Programming and UI - Antonio Nieto Pastor
